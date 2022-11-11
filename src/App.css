@@ -1,0 +1,38 @@
+
+.UserListHead{
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.UserList1{
+    display: inline-block;
+    width: 100%;
+}
+.UserList1 li{
+    display: inline-block;
+   border-bottom: 1px solid #ccc;
+   padding: 5px;
+   border-top: 1px solid #ccc;
+}
+.UserList1 li:first-child{
+    border-left: 1px solid #ccc;
+    width: 8%;
+}
+.UserList1 li:nth-child(2){
+    border-left: 1px solid #ccc;
+    width: 22%;
+}
+.UserList1 li:nth-child(3){
+    border-left: 1px solid #ccc;
+    width: 40%;
+}
+.UserList1 li:nth-child(4){
+    border-left: 1px solid #ccc;
+    width: 14%;
+}
+.UserList1 li:last-child{
+    width: 14%;
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+}
