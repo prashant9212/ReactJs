@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e68e1d22.css",
+    "main.js": "/static/js/main.c31d5877.js",
+    "static/js/787.ce4fefae.chunk.js": "/static/js/787.ce4fefae.chunk.js",
+    "static/media/cornflakes.jpg": "/static/media/cornflakes.ef9d2b7bf941fa0ff40f.jpg",
+    "static/media/gauriMogra.jpg": "/static/media/gauriMogra.6d02965369c4adfdbd15.jpg",
+    "static/media/chocos.jpg": "/static/media/chocos.f84e4c0cc55fa37bcf93.jpg",
+    "static/media/ChanaDal.jpg": "/static/media/ChanaDal.95ad9682b5b7f9856ca5.jpg",
+    "static/media/gauridubar.jpg": "/static/media/gauridubar.ffebc754f52cb26608f0.jpg",
+    "static/media/nescafe200.jpg": "/static/media/nescafe200.df91ed02b0babd4c676e.jpg",
+    "static/media/rajbeasn.jpg": "/static/media/rajbeasn.b676d112748a3154b2d5.jpg",
+    "static/media/image3.jpg": "/static/media/image3.e6eb2d0250e999721df2.jpg",
+    "static/media/Loginbg.jpg": "/static/media/Loginbg.db69d46293622349879e.jpg",
+    "static/media/Registerbg.jpg": "/static/media/Registerbg.db69d46293622349879e.jpg",
+    "static/media/footerbg.jpg": "/static/media/footerbg.db69d46293622349879e.jpg",
+    "static/media/image2.jpg": "/static/media/image2.821ebd70fa882ad23fc3.jpg",
+    "static/media/offerbn29.jpg": "/static/media/offerbn29.82df3e79c1e1355af729.jpg",
+    "static/media/lavenderTalc.jpg": "/static/media/lavenderTalc.9d380733e1b4fca8ef15.jpg",
+    "static/media/surfexcel.jpg": "/static/media/surfexcel.4444d3653f431411413e.jpg",
+    "static/media/image1.jpg": "/static/media/image1.8b725424983dfc2fd7d0.jpg",
+    "static/media/logo.png": "/static/media/logo.675d178b94f719bc8ba2.png",
+    "static/media/FooterLogo.png": "/static/media/FooterLogo.560923c7527b9b550176.png",
+    "index.html": "/index.html",
+    "main.e68e1d22.css.map": "/static/css/main.e68e1d22.css.map",
+    "main.c31d5877.js.map": "/static/js/main.c31d5877.js.map",
+    "787.ce4fefae.chunk.js.map": "/static/js/787.ce4fefae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e68e1d22.css",
+    "static/js/main.c31d5877.js"
+  ]
+}
